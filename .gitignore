@@ -362,6 +362,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /Source.cpp
-/Practice_Code_From_TeachYourselfCpp.sln
-/Practice_Code_From_TeachYourselfCpp.vcxproj
-/Practice_Code_From_TeachYourselfCpp.vcxproj.filters
+Practice_Code_From_TeachYourselfCpp.sln
+Practice_Code_From_TeachYourselfCpp.vcxproj
+Practice_Code_From_TeachYourselfCpp.vcxproj.filters
